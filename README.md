@@ -13,3 +13,5 @@ http://localhost:8888/shopping-cart/default
 ````
 ## Eureka Server
 http://localhost:9000/
+
+![](eureka.jpg)
